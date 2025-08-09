@@ -2,7 +2,7 @@
 just testing githab
 ### 1. پایتون - تولید ASCII Art (شکل با متن)
 ```python
-# ascii_art.py
+# ascii_art.p
 def ascii_heart():
     heart = """
       **     **
