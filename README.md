@@ -1,5 +1,5 @@
 # my-githab 1
-just testing githab
+jus testing githab
 ### 1. پایتون - تولید ASCII Art (شکل با متن)
 ```python
 # ascii_art.py
